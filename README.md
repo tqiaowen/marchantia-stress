@@ -1,5 +1,4 @@
 # marchantia-stress
-# Combinatorial abiotic stress in Marchantia polymorpha
 ## Preprint
 Marchantia polymorpha gene expression atlas reveals the hierarchy of abiotic stress responses and conservation of diurnal gene expression
 BioArchive: https://doi.org/10.1101/2021.11.12.468350
